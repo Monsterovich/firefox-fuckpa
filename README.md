@@ -1,2 +1,2 @@
 # firefox-fuckpa
-We have moved to https://gitlab.com/Monsterovich/firefox-fuckpa
+We have moved to http://submarine.strangled.net/fuckpa/
